@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and flexible professional who loves taking on new challenges. I enjoy learning and always aim to deliver great results. With a positive attitude and a desire to grow, I'm ready to make a big impact and achieve success.",
   github: "https://github.com/ravi022",
   resume:
-    "https://drive.google.com/file/d/1fhPoEGZJL13tjUefN1Yh8n1ppkMcOAig/view?usp=drive_link",
+    "https://drive.google.com/file/d/18I2d4fuiHZSIps7AbhGnmW9A9vzubdrU/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/ravi02222",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
