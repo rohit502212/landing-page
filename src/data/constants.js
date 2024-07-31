@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Ravi Prakash Verma",
+  name: "Rohit Kumar",
   roles: [
     "Front-end Engineer",
     "UI/UX Designer",
@@ -8,10 +8,10 @@ export const Bio = {
   ],
   description:
     "I am a motivated and flexible professional who loves taking on new challenges. I enjoy learning and always aim to deliver great results. With a positive attitude and a desire to grow, I'm ready to make a big impact and achieve success.",
-  github: "https://github.com/ravi022",
+  github: "https://github.com/rohit502212",
   resume:
-    "https://drive.google.com/file/d/18I2d4fuiHZSIps7AbhGnmW9A9vzubdrU/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/ravi02222",
+    "https://docs.google.com/document/d/14cMqTzWJD6Va5KpfUEPKOiKfbJ093AD3/edit?usp=drivesdk&ouid=114365888743478080425&rtpof=true&sd=true",
+  linkedin: "https://www.linkedin.com/in/rohit-kumar-ab8638201",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
   // facebook: "https://www.facebook.com/rishav.chanda.165/",
@@ -232,11 +232,11 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAeFBMVEX///8AM2YAF1kAElfj5+wAKmHb3eMALmMAI14AFFhEVnzf4ugAIV3X2+MALWQAJV9ndZMAHVulrLzz9fe3vsoAGloADVVJXoKyucd/i6PFy9V0gZsAAExbb4+YobTs7vKNmKwuSHQjQW83UHgPOmtRZ4kAB1UAAFP1p0IYAAAC1ElEQVRIiZWW64KCIBCFBWPBDSUQ72leqn3/N9xB27YMvJx+WOknMAwzx/PsOpRaqUblOowdT1hUFl0aSM6EEJwnKanyLXBYBZJQ9CrC07pcG6zzCbKIBP0SesgCasOMaJAdXFyTRi7MKLo3dq5OljCj5GbjBrHGISS6z/gO86BQmwSZLzR7jkcJS7Ak174bhu9PDe9cxR+UwH2lwstC6N+k0yluuG+cMbfpgkcOZ2v5MVdtAkOI3ol5oQ8cz3Ycg4cGyDNZ7ca8ECLD3Zw+vauub6dpchVBJHO/9+vMBDESzEiIKJLFeCeAJFxan6qzHhZDb/WoDLZcmP9LibhaWc0R9sv/y4pWIBzCtSCIrnDelwGfqcGRMAeso8JxzlxgKyJzvlIUONPsUrRt+wEeA8SgXATo6hzp+CNE8gF6V5peIDbk5AYh4uQTrEgSepovLNEBKsa1l3OW7wVLyRSA3AJCrtzDBRBmaQcjioIVUHNmyRsosNgNagMCXewFlRDKC5Oo/gdUURTlKlgRiGqcjrceOkkSqFXwimAfPYmC4z9IEFsFIdlSOIffr0m+CWygeHsm1ynaB1JETKUpEyT1HlDxB2Cq8Q4wlggFj+AiUW0HMzLNdKrHWG0FCxgwDaenO6hhfr4NLKBtR3/FtDSrDMbEq335Y0As+dmAZy7Ner7OnJ8BjE1tfA4IPcCYBtbB77AsS5MOWuscymGcwxdvuuYmnmN3+q8Yx/vYVP3T81U25Vc5dkP5Ur2byXAQPOT2Zhznp4RPHih964a3hwWgHA+tfiuXl1BVfSL/vIWYlbb+aTqokFj22QkOWFHdOo4T9uLtom4+l/7NrtBobFAkmlk0Sj/aU9xtMEgRsYWgxmscudpDp5ZNIPKdJf+QYaftREIsuRJ9xdZRKUvbBcyozO5sNizh92GtZxtd1A37EhwDfASYeVar7T7tUKoGemqrcpch/AU8AzNmbdJFxwAAAABJRU5ErkJggg==",
-    school: "Indian Institute of Information Technology, Guwahati",
-    date: "Dec 2021 - April 2025",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Indian Institute of Information Technology, Guwahati. I have completed 6 semesters. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I was also a core member of Entropy at IIITG.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAMAAACTisy7AAAAnFBMVEVHcEzg3uSwrMPe3N/DwNagm71DOoU0LHq6t9HBvtLSz9zb2d+WjrrU0di7uMyMg7CWj7bFxNbMytWtqsZ1c9tkYd63s8vn5+js6+jFxd3Qzt/My9nZ2OLW1N7e3OTDwtaxsdX39u////vf3+ji4uOnp9C7udfy8ev///LU1OqamdLk4+yGh+Jrb92FhMeXlciXl+sHCPNRUuUmKN/bkvx7AAAAF3RSTlMA7WbfqFQmFP6Wxs5zq4NLOb3mgs3lxHhl3cgAAAGUSURBVCiRZZLpUgIxEIQDLEsAAVHLyX1fe3H5/u8mVcIi2n+/ms6kexAaVc/Rdo8WO/RfNdrk3STPVxkt/rIXu51J6o+Ud9PJ2xNa1HXWOlEhOMaMVFefh1ZWxqQU0ZSmoDGbwS/rGhInJgIJwnglTVg+TCerIMNBBkF7L8LRcDarpjf4CoJqBtK67uQcz5FQXMbZqeTUKOtKcyrOMXJQcn93DcBZa4Vz/ddwKS7DoTNyMv+BG8V1G6xrvjAfrsaKesxuECHcdIfAdH9uzeVCdYMT1vd/EML0ETCJZ0PPfZYsBQ5wW3e5bgMBehp8P9C+1VkINlm93mbfGZMxDw5kR8sgkhaxGkMvneFJE9FRY5WXLcGijHS605oYVRSlMkMkvF1u764IbW2korQZK00VcGMf2SK0X1ekMCY4lw2z5XMln8v2HgCyBwvev/wmdaUgwTGmLlE4XqtTy7HPiuiIeSFqtl7PQgYWoyDvNzhX0sLmfnWL+YZYzu/Rvonm42kB9OEFGztr+md4aML46GKJ/uhnoW8mhC/Uume/vwAAAABJRU5ErkJggg==",
+    school: "Indian Institute of Technology, Dhanbad",
+    date: "Dec 2020 - April 2024",
+    desc: " I have completed my graduation from Indian Institute of Technology Dhanbad. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I was also a core member of  cyber club at IIT DHANBAD .",
+    degree: "Bachelor of Technology - BTech in Mining Engineering",
   },
   // {
   //   id: 1,
@@ -268,7 +268,7 @@ export const projects = [
       "MongoDb",
     ],
     category: "web app", //"android app" ,"machine learning"
-    github: "https://github.com/Ravi022/frontednd-freelancing.git",
+    github: "",
     webapp: "",
   },
   {
@@ -281,7 +281,7 @@ export const projects = [
       "https://camo.githubusercontent.com/5e045ab8dc350fb6ed20846c18914c22a2d681772744725face9f305584ff587/68747470733a2f2f692e6962622e636f2f31546d574756362f73686172656d652d73732e706e67",
     tags: ["React Js", "Tailwind Css", "Javascript", "Node Js", "Express Js"],
     category: "web app",
-    github: "https://github.com/Ravi022/ShareMe",
+    github: "",
     webapp: "",
   },
   // {
